@@ -1,0 +1,2 @@
+# CNN_Lungs
+This CNN is trained on a balanced dataset of 424 lung X-Rays (normal and covid-19).  It can be tweaked to any binary image classification . This CNN model has the accuracy of  89.4 % (Can be improved by performing basic image processing).The focus of this project was to collect and arrange images into features that can be later supplied to a machine learning model. Currently working on ways to improve the  accuracy.
